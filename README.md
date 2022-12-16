@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Melinal23
-- 👀 I’m interested in front-end development, computer graphics, and game development.
-- 🌱 I’m currently learning LWCs and computer graphics.
+- 👀 I’m interested in software development, computer graphics, and game development.
+- 🌱 I’m currently learning how to draw pixel art for video games and Vuejs.
 - 💞️ I’m looking to collaborate on creative and exciting projects!
-- 📫 How to reach me mlope172@calpoly.edu
+- 📫 Reaching out to me on [LinkedIn](https://www.linkedin.com/in/melinalopez21/) for any questions or just to say hi! 
 
 <!---
 Melinal23/Melinal23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
